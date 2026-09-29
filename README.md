@@ -3,7 +3,7 @@
 **Project Title:** Autonomous Conveyor Belt Safety and Prognostic Integrity System  
 **Team Designation:** Voltage And Vibes (Team ID: 163055)  
 **Problem Statement Reference:** 26008 | Smart Automation (Hardware)  
-**Target Sector:** Bulk Material Handling & Iron Ore Extraction Infrastructure  
+
 
 ---
 
